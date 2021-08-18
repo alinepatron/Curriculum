@@ -1,0 +1,25 @@
+h1,h2 {
+    background-color:darkblue;
+    color:skyblue;
+    font-weight: bold;
+    width: 392px;
+}
+
+/* para las clases */
+.az{
+    color:white;
+    margin-left: 20px;
+}
+.enc{
+    color:skyblue;
+    font-size: 19px;
+}
+
+.des{
+    color:skyblue;
+    font-size: 14px;
+}
+body {
+    background-color: whitesmoke;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
